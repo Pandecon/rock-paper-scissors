@@ -1,0 +1,1 @@
+Open the Console (F12) to play the game.
